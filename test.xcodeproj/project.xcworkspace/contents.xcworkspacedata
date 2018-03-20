@@ -2,6 +2,27 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:test.xcodeproj">
+      location = "group:/Users/visgroup/Desktop/ucas/test/test/config.h">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/visgroup/Desktop/ucas/test/test/facealignment.h">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/visgroup/Desktop/ucas/test/test/feature_descriptor.h">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/visgroup/Desktop/ucas/test/test/hog.h">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/visgroup/Desktop/ucas/test/test/ldmarkmodel.h">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/visgroup/Desktop/ucas/test/test/utils.h">
+   </FileRef>
+   <FileRef
+      location = "group:../test/facealignmentLib.a">
+   </FileRef>
+   <FileRef
+      location = "self:">
    </FileRef>
 </Workspace>
